@@ -129,7 +129,7 @@ KV = '''
             size_hint_y: None
             height: self.texture_size[1]
         Label:
-            text: 'Developed By: Gemini & the user'
+            text: 'Developed By: PHC-Cathy'
             size_hint_y: None
             height: dp(30)
         Label: # Spacer
@@ -528,3 +528,4 @@ class UniversalConverterApp(App):
 
 if __name__ == '__main__':
     UniversalConverterApp().run()
+
